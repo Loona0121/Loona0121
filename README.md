@@ -1,4 +1,4 @@
-### Hi, I'm Alona!
+# Hi, I'm Alona!
 I'm a sophomore IT student
 
 
