@@ -1,5 +1,5 @@
 # Hi, I'm Alona!
-I'm a sophomore IT student
+I'm a sophomore IT student.
 
 
 # 💻 Tech Stack:
